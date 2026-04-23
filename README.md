@@ -1,2 +1,2 @@
-# rna-classification-ml-pipeline
-This project presents a machine learning pipeline for classifying RNA sequences into binary classes (+1 / -1) using a combination of structural, sequence-based, and alignment-derived features. An ensemble of gradient boosting models is used to achieve robust predictive performance.
+🧬 RNA Classification using Ensemble Machine Learning
+<p align="center"> <b>Robust RNA sequence classification using feature engineering + gradient boosting ensembles</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" /> <img src="https://img.shields.io/badge/ML-XGBoost%20%7C%20LightGBM%20%7C%20CatBoost-green" /> <img src="https://img.shields.io/badge/Task-RNA%20Classification-orange" /> <img src="https://img.shields.io/badge/Metric-ROC--AUC-red" /> <img src="https://img.shields.io/badge/Status-Completed-success" /> </p>
