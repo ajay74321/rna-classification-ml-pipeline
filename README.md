@@ -89,7 +89,23 @@ RNA sequences are transformed into numerical representations using:
 
 ## ▶️ Getting Started
 
+
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/rna-classification-ensemble-ml.git
 cd rna-classification-ensemble-ml
+
+## ▶️ Usage
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+
+## 3️⃣ Run the Pipeline
+```bash
+python3 Code.py
+
+## 📤 Output
+Predictions will be saved to:
+```bash
+outputs/submission_file.csv
