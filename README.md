@@ -84,23 +84,3 @@ RNA sequences are transformed into numerical representations using:
 | **Ensemble** | **0.8411** |
 
 🏆 **Kaggle Score:** 0.82  
-
----
-
-## ▶️ Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/rna-classification-ensemble-ml.git
-cd rna-classification-ensemble-ml
-
-▶️ Usage
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Run the Pipeline
-python3 Code.py
-
-📤 Output
-Predictions will be saved to:
-outputs/submission_file.csv
