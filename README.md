@@ -84,3 +84,6 @@ RNA sequences are transformed into numerical representations using:
 | **Ensemble** | **0.8411** |
 
 🏆 **Kaggle Score:** 0.82  
+
+## Note
+This project was part of a kaggle competition.
